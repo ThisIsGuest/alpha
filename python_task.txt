@@ -1,0 +1,9 @@
+# Extractor task in Python
+
+1. Load the given json to memory. (this json represents all the missiles that landed on Earth)
+2. Parse it and extract the following information for each entry:
+	- name
+	- year
+	- coordinates
+
+4. Print them like the given output in the screenshot.
